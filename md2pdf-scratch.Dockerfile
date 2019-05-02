@@ -93,13 +93,13 @@ RUN cp \
 # 56kb
 RUN cp -r /etc/texmf /newroot/etc/texmf
 # 89mb!!
-#RUN cp -r /usr/share/texmf /newroot/usr/share/texmf
+RUN cp -r /usr/share/texmf /newroot/usr/share/texmf
 # 213mb !!!!
-#RUN cp -r /usr/share/texlive /newroot/usr/share/texlive
+RUN cp -r /usr/share/texlive /newroot/usr/share/texlive
 # 9.3mb ...
-#RUN cp -r /var/lib/texmf /newroot/var/lib/texmf
+RUN cp -r /var/lib/texmf /newroot/var/lib/texmf
 # 68k
-#RUN cp -r /var/lib/tex-common /newroot/var/lib/tex-common
+RUN cp -r /var/lib/tex-common /newroot/var/lib/tex-common
 
 RUN chmod o+rwx /newroot/tmp
 
