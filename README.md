@@ -68,8 +68,11 @@ My original goal was "make the smallest container" but
 looking into it, I also want a pandoc/latex setup that
 can do a lot of things (which I may or may not ever need).
 
-Anyway blame Luke Smith, he's the one always going on about
-how much awesome you can pack onto your latex install.
+Anyway blame [Luke Smith](https://lukesmith.xyz), he's the one always going on about
+how much awesome you can pack onto your latex install and how
+awesome latex is and how latex is amazing and latex latex latex latex...
+
+Yo Luke btw :respect: watched all yer videos, love 'em!
 
 What this project _does_ do is containerise the stuff,
 which is a really good start. You don't need any of
@@ -79,7 +82,7 @@ it on the base system any more. And it's really easy to remove.
 > need something like `mupdf` etc)
 
 # Oh and why not include mupdf and then bind-mount the DISPLAY ?
-> *Read Jess Frazelle's blog and you can have the power!!*
+> *Read [Jessie Frazelle's blog](https://blog.jessfraz.com/post/docker-containers-on-the-desktop/) and you can have the power!!*
 
 
 # When will it be finished?
@@ -93,3 +96,11 @@ Hopefully soon. Realistically, these things are never "finished".
 Sure. Pull Requests welcome and all that - this is all just code.
 
 ---
+
+#### What editor did you use to write this?
+
+_tehe_ `VIM` of course - checkout [my vim](https://github.com/whatbirdisthat/vim-yavin)
+There are a few things in my Github repo. Some of them are kinda cool (I think so anyway).
+
+`:doveofpeace: &c`
+
